@@ -1,6 +1,5 @@
 Here's the README.md content you can directly copy and paste into your GitHub repository:
 
-```markdown
 # React To-Do List Application
 
 A beautiful and functional To-Do List app built with React that helps you stay organized.

@@ -51,10 +51,10 @@ src/
 ```
 
 ## 📜 License
-MIT © Your Name
+MIT © Priyanshu
 
 ## 📬 Contact
-Your Email - your.email@example.com  
-Project Link: [https://github.com/your-username/react-todo-list](https://github.com/your-username/react-todo-list)
+Your Email - priyanshukh54@gmail.com  
+Project Link: [https://github.com/priyanshu7855/react-todo-list](https://github.com/priyanshu7855/react-todo-list)
 ```
 

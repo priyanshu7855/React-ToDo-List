@@ -5,7 +5,7 @@ Here's the README.md content you can directly copy and paste into your GitHub re
 
 A beautiful and functional To-Do List app built with React that helps you stay organized.
 
-![To-Do List Screenshot](./screenshot.png)
+![To-Do List Screenshot](https://github.com/priyanshu7855/React-ToDo-List/blob/2c63decd1a1208a64f300ac2e61dbca66b83ab28/screenshot.png)
 
 ## ✨ Features
 

@@ -19,7 +19,7 @@ A beautiful and functional To-Do List app built with React that helps you stay o
 ```
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/react-todo-list.git
+git clone https://github.com/priyanshu7855/react-todo-list.git
 ```
 2. Install dependencies:
 ```bash
